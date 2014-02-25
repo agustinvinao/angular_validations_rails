@@ -1,0 +1,14 @@
+# Each model must be in a different line and has a '-' before
+# example:
+# production:
+#   models:
+#     - model_one
+#     - model_two
+production:
+  models:
+
+development:
+  models:
+
+test:
+  models:
